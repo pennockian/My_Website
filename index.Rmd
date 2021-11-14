@@ -1,0 +1,27 @@
+---
+title: "Academic Website of Ian Pennock"
+links:
+- label: Twitter
+  url: "https://twitter.com/PennockIan"
+- label: LinkedIn
+  url: "https://www.linkedin.com/in/ian-pennock-2b645695/"
+- label: Orcid
+  url: "https://orcid.org/0000-0002-4166-1126"
+- label: Researchgate
+  url: "https://www.researchgate.net/profile/Ian-Pennock"
+output:
+  postcards::jolla
+
+site: distill::distill_website
+---
+
+
+I am a PhD student at the University of Sussex studying colour perception in the brain. I am currently working on a project involving the Natural Scenes Dataset.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+

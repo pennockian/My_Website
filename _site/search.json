@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-11-14T17:41:15+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Academic Website of Ian Pennock",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n      \r\n      Ian Pennock\r\n      \r\n      \r\n      Home\r\n      About\r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Academic Website of Ian Pennock\r\n          \r\n          \r\n            \r\n              I am a PhD student at the University of Sussex studying colour perception in the brain. I am currently working on a project involving the Natural Scenes Dataset.\r\n            \r\n            \r\n              I am a PhD student at the University of Sussex studying colour perception in the brain. I am currently working on a project involving the Natural Scenes Dataset.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Orcid\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Researchgate\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Orcid\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Researchgate\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-11-14T17:41:15+00:00"
+    }
+  ],
+  "collections": []
+}
