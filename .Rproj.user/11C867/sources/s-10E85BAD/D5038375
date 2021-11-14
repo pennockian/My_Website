@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1924189124",
+    "hash" : "960986352",
     "id" : "D5038375",
-    "lastKnownWriteTime" : 1636914374,
-    "last_content_update" : 1636914374565,
+    "lastKnownWriteTime" : 1636915665,
+    "last_content_update" : 1636915665285,
     "path" : "~/R/Website/Academic_Website/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
-        "cursorPosition" : "3,15",
-        "scrollLine" : "0"
+        "cursorPosition" : "13,16",
+        "scrollLine" : "10"
     },
     "read_only" : false,
     "read_only_alternatives" : [

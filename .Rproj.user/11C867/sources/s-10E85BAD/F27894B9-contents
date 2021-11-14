@@ -1,12 +1,12 @@
 ---
-title: "Academic Website of Ian Pennock"
+title: "Ian Pennock"
 image: "me.jpg"
 links:
 - label: Twitter
   url: "https://twitter.com/PennockIan"
 - label: LinkedIn
   url: "https://www.linkedin.com/in/ian-pennock-2b645695/"
-  - label: GoogleScholar
+- label: GoogleScholar
   url: "https://scholar.google.com/citations?user=YSKzTQYAAAAJ&hl=en"
 - label: Orcid
   url: "https://orcid.org/0000-0002-4166-1126"
@@ -18,5 +18,6 @@ output:
 site: distill::distill_website
 ---
 
+I am a PhD student at the University of Sussex at the [Sussex Colour Group](https://www.sussexcolourgroup.co.uk/) and [Sussex Vision Lab](https://jennybosten.wixsite.com/visionlab) with Anna Franklin and Jenny Bosten.
 
-I am a PhD student at the University of Sussex studying colour perception in the brain. I am currently working on a project involving the Natural Scenes Dataset.
+

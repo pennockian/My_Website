@@ -1,10 +1,15 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About Me"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+I study colour perception in the brain. I am currently working on a project involving the Natural Scenes Dataset. 
+
+
+### Publication
+
+[**Pennock, I. M. L.**, Schmidt, T. T., Zorbek, D., & Blankenburg, F. (2021). Representation of visual numerosity information during working memory in humans: An fMRI decoding study. Human Brain Mapping, 42(9), 2778-2789.](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25402)
+
+### Abstract Publication
+
+[**Pennock, I.**, Racey, C., Kay, K., Naselaris, T., Allen, E., Wu, Y., Franklin, A., & Bosten, J. (2021). Color-selective brain responses and hue representations from ultra-high-field fMRI of natural scenes. Journal of Vision, 21(9), 2009-2009.](https://jov.arvojournals.org/article.aspx?articleid=2776949)
 
