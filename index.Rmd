@@ -20,4 +20,6 @@ site: distill::distill_website
 
 I am a PhD student at the University of Sussex at the [Sussex Colour Group](https://www.sussexcolourgroup.co.uk/) and [Sussex Vision Lab](https://jennybosten.wixsite.com/visionlab) with Anna Franklin and Jenny Bosten.
 
+You can reach me at ianml.pennock@gmail.com
+
 
