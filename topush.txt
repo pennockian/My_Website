@@ -1,3 +1,0 @@
-git add -A # Add all new changes
-git commit -m "ENH: Created welcome post with date prefix, deleted default post"
-git push origin main
