@@ -1,6 +1,6 @@
 ---
 title: "Ian Pennock"
-image: "me_proper.jpg"
+image: "me.jpg"
 links:
 - label: Twitter
   url: "https://twitter.com/PennockIan"

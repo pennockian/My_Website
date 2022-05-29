@@ -3,7 +3,9 @@ title: "About Me"
 ---
 
 I study colour perception in the brain. I am currently working on a project involving the Natural Scenes Dataset. 
+### Preprint
 
+[**Pennock, I. M. L.**, Racey, C., Allen E. J., Wu, Y., Naselaris, T., Kay, K., Franklin, A., & Bosten, J. (2022) Color-biased regions in the ventral visual pathway are food-selective. bioRxiv, 2022.05.25.493425; doi: https://doi.org/10.1101/2022.05.25.493425. ](https://www.biorxiv.org/content/10.1101/2022.05.25.493425v1)
 
 ### Publication
 
